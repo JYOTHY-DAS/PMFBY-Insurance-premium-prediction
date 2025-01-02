@@ -1,0 +1,10 @@
+# Ignore all files ending with .a 
+*.a
+
+# Ignore all files and directories within the 'build' folder
+build/
+
+# Ignore specific files
+.DS_Store 
+node_modules/
+secrets.yaml 
