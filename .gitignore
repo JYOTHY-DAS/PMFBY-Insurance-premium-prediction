@@ -3,7 +3,7 @@
 
 # Ignore all files and directories within the 'build' folder
 build/
-venv/
+.venv/
 
 # Ignore specific files
 .DS_Store 
